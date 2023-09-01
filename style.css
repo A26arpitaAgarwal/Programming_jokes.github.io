@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-image: url("img.jpg");
+}
+#joke{
+  width:50%;
+  text-align: center;
+  margin: auto;
+  margin-top:200px;
+  margin-bottom: 0px;
+  padding: 20px 20px;
+  font-family: sans-serif;  
+  align-content:center;
+  background: black;
+  color:springgreen;
+  border: 2px solid white;
+}
+
+
+#reload{
+  width:50%;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+  margin-top: 0px;
+  padding: 20px 20px;
+  font-family:sans-serif;  
+  background: black;
+  color: red;
+}
+
+
+img.jpg{
+  width:100vw
+  height:100vh;
+  background-image: no-repeat 
+  
+}
+#newjoke{
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
+button{
+  background-color:black;
+}
